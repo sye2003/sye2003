@@ -8,16 +8,18 @@ I'm a ECE graduate interested in **Robotics, Drones, and AI**. I love building p
 - **Frameworks:** OpenCV, TensorFlow
 
 ## 🚀 Projects
-**IoT-Based Smart Home Automation using ESP32
--Designed and implemented a smart home system using ESP32 and a 4-channel relay to control
+**IoT-Based Smart Home Automation using ESP32**
+
+- Designed and implemented a smart home system using ESP32 and a 4-channel relay to control
 appliances via Wi-Fi and Blynk.
--Gained hands-on experience in IoT architecture, real-time device control, ESP32 programming, and
+- Gained hands-on experience in IoT architecture, real-time device control, ESP32 programming, and
 circuit interfacing using Arduino IDE /Platform IO.
 
-**Vision-Based Sorting Conveyor System
--Developed a real-time object sorting system using OpenCV and ESP32, achieving over 85% accuracy
+**Vision-Based Sorting Conveyor System**
+
+- Developed a real-time object sorting system using OpenCV and ESP32, achieving over 85% accuracy
 in color detection and classification.
--Created a Flask dashboard with SQLite integration to monitor object count and system status,
+- Created a Flask dashboard with SQLite integration to monitor object count and system status,
 enabling real-time tracking and performance insights.
 
 ## 📫 Contact Me
