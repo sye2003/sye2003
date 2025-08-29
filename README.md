@@ -1,4 +1,4 @@
-Hi! I'm **Syed Abudahir**, an aspiring **Machine Learning Engineer** and **Robotics Enthusiast** with a strong background in **Embedded Systems, Data Analysis, and AI**. I love building intelligent systems that combine hardware, software, and machine learning to solve real-world problems.
+Hi! I'm **Syed Abudahir**, an aspiring **Machine Learning Engineer** and **Robotics Enthusiast** with a strong background in **Programming principles, Data Analysis, and AI**. I love building intelligent systems that combine hardware, software, and machine learning to solve real-world problems.
 
 ## 💡 Interests
 - **Machine Learning & AI:** Regression, classification, deep learning, computer vision, and natural language processing.
