@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Abudahir. A</h1>
-<h3 align="center">A software developer</h3>
-
-- 🌱 I’m currently learning **Web Development**
+<h3 align="center">Software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +15,7 @@
 - **Database:** Sqlite
 
 ## 🌱 Goals
-- Build solutions for problems worth solving 
+- Building solutions for problems worth solving 
 
 ## 📫 Connect with Me
 - <a href="mailto:abu7862222222@gmail.com">Send Email</a>
