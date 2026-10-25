@@ -18,7 +18,7 @@
 - Building solutions for problems worth solving 
 
 ## 📫 Connect with Me
-- <a href="mailto:abu7862222222@gmail.com">Send Email</a>
-- <a href="https://sye2003.github.io/Syed-Abudahir.A/">Portfolio</a>
+- <a href="mailto:abu7862222222@gmail.com" target="_blank">Send Email</a>
+- <a href="https://sye2003.github.io/Syed-Abudahir.A/" target="_blank">Portfolio</a>
 
 ---
